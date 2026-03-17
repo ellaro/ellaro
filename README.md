@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Ella 👋
 
-<!--
-**ellaro/ellaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate and M.Sc. student in Artificial Intelligence.
 
-Here are some ideas to get you started:
+I enjoy building intelligent systems using machine learning, deep learning, and reinforcement learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 My work focuses on:
+- Machine Learning
+- Computer Vision
+- Reinforcement Learning
+- Data Analysis
+
+---
+
+## Featured Projects
+
+### 🔬 Dendrite Segmentation in SEM Images
+Deep learning pipeline for detecting dendritic structures in microscopy images.
+
+Tech:
+PyTorch • YOLOv11 • UNet • Computer Vision
+
+➡️ https://github.com/ellaro/Dendrite_Segmentation_2026
+
+---
+
+### 🎮 SOS Game AI
+Reinforcement learning project combining Monte Carlo Tree Search with neural networks.
+
+Tech:
+Python • MCTS • Reinforcement Learning
+
+➡️ https://github.com/ellaro/SOS_Game
+
+---
+
+### 💳 Financial Fraud Analysis
+SQL-based analysis for detecting suspicious transaction patterns.
+
+Tech:
+SQL • Data Analysis
+
+➡️ https://github.com/ellaro/fraud-sql-analysis
+
+---
+
+### 🌸 Iris Machine Learning
+Classic classification project using KNN.
+
+Tech:
+Python • Scikit-learn • Data Visualization
+
+➡️ https://github.com/ellaro/iris-knn-classification
+
+---
+
+## Skills
+
+Python • SQL • PyTorch • Machine Learning • Deep Learning • Data Analysis • Linux • Git
+
+---
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/ella-rosenberg-developer
