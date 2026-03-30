@@ -40,19 +40,7 @@ A custom implementation of the Monopoly game focusing on game logic, rules handl
 **Tech:**  
 Python • OOP • Game Logic • Testing
 
-➡️ (תוסיפי כאן את הלינק שלך)
-
----
-
-### 🧠 Time-Travel Debugger (AI Simulator)
-An AI-driven simulator that places developers inside a production debugging scenario.
-
-Users must identify a performance regression using `git bisect`, optimize the code, and justify their solution to an AI-powered architect.
-
-**Tech:**  
-Python • Flask • Git • LLM APIs • Debugging Tools
-
-➡️ (תוסיפי כאן את הלינק שלך)
+➡️ https://github.com/ellaro/Monopoly-Game
 
 ---
 
