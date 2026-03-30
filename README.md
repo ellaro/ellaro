@@ -32,25 +32,6 @@ Python • MCTS • Reinforcement Learning
 
 ➡️ https://github.com/ellaro/SOS_Game
 
----
-
-### 💳 Financial Fraud Analysis
-SQL-based analysis for detecting suspicious transaction patterns.
-
-Tech:
-SQL • Data Analysis
-
-➡️ https://github.com/ellaro/fraud-sql-analysis
-
----
-
-### 🌸 Iris Machine Learning
-Classic classification project using KNN.
-
-Tech:
-Python • Scikit-learn • Data Visualization
-
-➡️ https://github.com/ellaro/iris-knn-classification
 
 ---
 
